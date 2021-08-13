@@ -1,2 +1,1 @@
-# team_hashcat
-Team hashcat event writeups and tools
+# Team hashcat event writeups and tools
