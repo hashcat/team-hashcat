@@ -14,8 +14,10 @@ Collection of stuff the team made during contests
 | `ferengi.rules` | opens up all history0 with base plains from history1 for the ferengi group  |
 | `leet.table` | table for simple_table.pl extented leet to cover all extra modifiers found in cmiyc2021  |
 | `simple_table.pl` | standalone implementation of table attack (from hashcat-legacy)  |
-
-
+| `permute3.c` | Tool version 3 for applying permutation attacks like permute.c from hashcat-utils, but not for individual letters of passwords, but for words  |
+| `splitter.pl` | Extract 5/N random words for Bible psalm |
+| `minintlm3.c` | Standalone NTLM cracker |
+| `history.c` | A tool developed specifically to streamline the attack chains used in cmiyc for history0 |
 
 
 
