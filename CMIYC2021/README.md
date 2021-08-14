@@ -17,8 +17,8 @@ Collection of stuff the team made during contests
 | `permute3.c` | Tool version 3 for applying permutation attacks like permute.c from hashcat-utils, but not for individual letters of passwords, but for words  |
 | `splitter.pl` | Extract 5/N random words for Bible psalm |
 | `minintlm3.c` | Standalone NTLM cracker |
-| `history.c` | A tool developed specifically to streamline the attack chains used in cmiyc for history0 |
-
+| `history0.c` | A tool developed specifically to streamline the attack chains used in cmiyc for history0 |
+| `bla2.sh` | script to run history0 N times |
 
 
   
