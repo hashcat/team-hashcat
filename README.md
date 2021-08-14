@@ -29,8 +29,8 @@ We're a group of people participating in the yearly repeating password cracking 
 -   Special recognition for team hashcat goes to:
 
 Christoph "dropdead" Heuwieser (@dropdeadfu): Lead and organizing
-Xanadrel (@Xanadrel): Developing LC, the "Team hashcat" hash management
-tool
+
+Xanadrel (@Xanadrel): Developing LC, the "Team hashcat" hash management tool
 
 -   Active and former member
 
