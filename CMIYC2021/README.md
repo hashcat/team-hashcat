@@ -8,6 +8,7 @@ Collection of stuff the team made during contests
 
 | file | Description                |
 | :-------- | :------------------------- |
+| `CMIYC2021TeamHashcatWriteup.pdf`| writeup |
 | `base.rule` | use infront of other rules to cover basic modifiers  |
 | `dd.table` | table for simple_table.pl to cover all confuseables  http://www.unicode.org/Public/security/latest/confusables.txt|
 | `ferengi.rule` | opens up all history0 with base plains from history1 for the ferengi group  |
