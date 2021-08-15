@@ -9,6 +9,7 @@ Collection of stuff the team made during contests
 | file | Description                |
 | :-------- | :------------------------- |
 | `CMIYC2021TeamHashcatWriteup.pdf`| writeup |
+| `CMIYC2021-NTDS-extract-by-kontrast23.pdf`| writeup - alternative extraction of hashes from VM |
 | `base.rules` | use infront of other rules to cover basic modifiers  |
 | `dd.table` | table for simple_table.pl to cover all confuseables  http://www.unicode.org/Public/security/latest/confusables.txt|
 | `ferengi.rules` | opens up all history0 with base plains from history1 for the ferengi group  |
