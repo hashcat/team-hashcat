@@ -21,7 +21,7 @@ We're a group of people participating in the yearly repeating password cracking 
 | Crack Me If You Can | DerbyCon, Louisville       | [2017](https://contest-2017.korelogic.com/) | 1st    |
 | PCrack              | SAINTCON, Utah             | [2017](https://gist.github.com/miketweaver/15715d00c4fcafd1c216401ee3d5811c) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2018](https://contest-2018.korelogic.com/) | 2nd    |
-| CracktheCon         | Cyphercon, Milwaukee       | 2019 | 1st    |
+| CracktheCon         | Cyphercon, Milwaukee       | [2019](https://2019.crackthecon.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2019](https://contest-2019.korelogic.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Remote            | [2020](https://contest-2020.korelogic.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2021](https://contest-2021.korelogic.com/) | 1st    |
