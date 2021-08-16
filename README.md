@@ -12,7 +12,7 @@ We're a group of people participating in the yearly repeating password cracking 
 | Hash Runner         | Positive Hack Days, Moscow | [2012](http://blog.phdays.com/2012/07/hash-cracking-at-phdays-2012-hash.html) | 1st    |
 | Hashkiller          | -                          | 2012 | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2013](https://contest-2013.korelogic.com/) | 2nd    |
-| Hash Runner         | Positive Hack Days, Moscow | 2013 | 2nd    |
+| Hash Runner         | Positive Hack Days, Moscow | [2013](https://2013.phdays.com/program/contests/#16299) | 3rd    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2014](https://contest-2014.korelogic.com/) | 1st    |
 | Hash Runner         | Positive Hack Days, Moscow | [2014](http://blog.phdays.com/2014/07/the-hash-runner-challenge-detailed.html) | 2nd    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2015](https://contest-2015.korelogic.com/) | 1st    |
