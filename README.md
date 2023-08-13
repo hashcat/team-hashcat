@@ -26,6 +26,7 @@ We're a group of people participating in the yearly repeating password cracking 
 | Crack Me If You Can | DEF CON, Remote            | [2020](https://contest-2020.korelogic.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2021](https://contest-2021.korelogic.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2022](https://contest-2022.korelogic.com/) | 1st    |
+| Crack Me If You Can | DEF CON, Las Vegas         | [2023](https://contest-2023.korelogic.com/) | 1st    |
 
 ## Special recognition for team hashcat goes to:
 
