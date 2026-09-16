@@ -29,6 +29,7 @@ We're a group of people participating in the yearly repeating password cracking 
 | Crack Me If You Can | DEF CON, Las Vegas         | [2023](https://contest-2023.korelogic.com/) | 1st    |
 | Crack Me If You Can | DEF CON, Las Vegas         | [2024](https://contest-2024.korelogic.com/) | 2nd    |
 | Jabbercracky        | DEF CON, Las Vegas         | [2025](https://defcon.jabbercracky.com/) | 1st    |
+| Crack Me If You Can | DEF CON, Las Vegas         | [2026](https://contest-2026.korelogic.com/) | 3nd    |
 
 ## Special recognition for team hashcat goes to:
 
@@ -39,12 +40,13 @@ We're a group of people participating in the yearly repeating password cracking 
 
 |  |  |  |  | |
 |--|--|--|--|--|
-|abaco|alotdv|atom|blandyuk|blaz|
-|BlowCane|chancas|Chick3nman|coolbry95|dakykilla|
-|deutsch|dropdead|epixoip|EvilMog|franky|
-|gpufreak|hashtka|Hydraze|J0hnnyBrav0|K9|
-|kontrast23|Kryczek|legion|m3g9tr0n|matrix|
-|Minga|N\|IGHT5|_NSAKEY|NullMode|philsmd|
-|purehate|radix|Rolf|rurapenthe|s3in!c|
-|SuperJames|Szul|tehnlulz|The_Mechanic|T0XlC|
-|TychoTithonus|undeath|unix-ninja|Xanadrel|xmisery|
+|abaco|alotdv|atom|baybedoll|blandyuk|
+|blaz|BlowCane|chancas|Chick3nman|coolbry95|
+|dakykilla|deutsch|dropdead|epixoip|EvilMog|
+|franky|gpufreak|hashtka|Hydraze|J0hnnyBrav0|
+|K9|kontrast23|Kryczek|legion|m3g9tr0n|
+|matrix|Minga|N\|IGHT5|_NSAKEY|NullMode|
+|philsmd|purehate|radix|Rolf|rurapenthe|
+|s3in!c|SuperJames|Szul|tehnlulz|The_Mechanic|
+|T0XlC|TychoTithonus|undeath|unix-ninja|Xanadrel|
+|xmisery|
